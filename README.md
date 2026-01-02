@@ -24,14 +24,23 @@ Choose your language:
 - **73+ data types** available
 - **28 customizable colors**
 - **Dual weather support** (Garmin Weather + OpenWeatherMap)
-- **19 languages** supported
+- **19 date format languages** supported
 - **Intelligent power saving** mode
 
 ## 📥 Installation
 
-Download FUSION IV from the **Garmin Connect IQ Store**:
-- [FUSION IV](https://apps.garmin.com/apps/)
-- [FUSION IV SP](https://apps.garmin.com/apps/)
+**Installation is done through the Garmin Connect IQ mobile app:**
+
+1. Open the **Garmin Connect IQ** app on your smartphone
+2. Search for "**Fusion IV**"
+3. Choose your preferred version:
+   - **[FUSION IV](https://apps.garmin.com/apps/b9432d01-482d-48b4-ad7f-684345a91dcd)** - Garmin Pay version
+   - **[FUSION IV SP](https://apps.garmin.com/apps/437f928e-903b-44cd-8991-ac69547ccfc2)** - Trial version + Stripe Pay
+4. Install directly to your watch
+
+**Version Differences:**
+- **FUSION IV**: Payment via Garmin Pay
+- **FUSION IV SP**: Free trial available + payment via Stripe
 
 ## 📞 Support
 
