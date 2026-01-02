@@ -1,0 +1,30 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Directories and Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Generated PDFs (optional - remove if you want to commit PDFs)
+# *.pdf
+
+# Log Files
+*.log
+
+# Node modules (if using any markdown tools)
+node_modules/
+
+# Python cache (if using scripts)
+__pycache__/
+*.pyc
