@@ -10,6 +10,7 @@ Choose your language:
 
 - **[English Manual](Manual_EN.md)** 🇬🇧
 - **[Manuel Français](Manual_FR.md)** 🇫🇷
+- **[Manual Español](Manual_ES.md)** 🇪🇸
 
 ## 📱 Quick Links
 
