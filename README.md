@@ -13,6 +13,8 @@ Choose your language:
 
 ## 📱 Quick Links
 
+- **[Portfolio](https://pay.b65dev.com/portfolio)** - All our Garmin watch faces
+- **[FAQs](https://pay.b65dev.com/portfolio/faqs)** - Frequently Asked Questions
 - **[Changelog](CHANGELOG.md)** - Version history and updates
 - **[Report a Bug](../../issues/new?template=bug_report.md)** - Found an issue?
 - **[Request a Feature](../../issues/new?template=feature_request.md)** - Have an idea?
@@ -41,6 +43,9 @@ Choose your language:
 **Version Differences:**
 - **FUSION IV**: Payment via Garmin Pay
 - **FUSION IV SP**: Free trial available + payment via Stripe
+
+**💳 Purchase License:**
+- **[Buy License via Stripe](https://pay.b65dev.com/checkout/buy?productId=fusion_4)** - Direct purchase for FUSION IV SP
 
 ## 📞 Support
 
