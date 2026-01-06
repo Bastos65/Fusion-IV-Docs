@@ -51,6 +51,6 @@ For questions, bug reports, or feature requests, please use the [Issues](../../i
 
 **Version:** 1.0.0  
 **Developer:** Bastos65  
-**Contact:** bastos65.gramin@gmail.com
+**Contact:** [Send a message](https://pay.b65dev.com/portfolio/contact)
 
 Copyright © 2026 Bastos65. All rights reserved.

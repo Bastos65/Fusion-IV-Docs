@@ -787,7 +787,7 @@ The **Debug Data** data type allows displaying diagnostic information:
 For any question, suggestion or problem:
 
 - **GitHub**: [Create an issue](https://github.com/Bastos65/fusion-iv-sp-docs)
-- **Email**: bastos65.gramin@gmail.com
+- **Contact**: [Send a message](https://pay.b65dev.com/portfolio/contact)
 - **Garmin Forum**: [Fusion IV Discussion](https://forums.garmin.com)
 
 ---
