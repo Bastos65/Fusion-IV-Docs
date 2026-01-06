@@ -1,4 +1,6 @@
-# FUSION IV / FUSION IV SP - Documentation Complète
+# FUSION IV - Documentation Complète
+
+> ⚠️ **AVERTISSEMENT** : Ce dépôt contient uniquement la documentation utilisateur. Aucun code source, algorithme, logique backend ou mécanisme de licence n'est inclus. Toute tentative de rétro-ingénierie du produit est interdite.
 
 ![Version](https://img.shields.io/badge/version-Beta-blue)
 ![Platform](https://img.shields.io/badge/platform-Garmin%20Connect%20IQ-green)
@@ -32,8 +34,6 @@
 ## Présentation
 
 **FUSION IV** est un cadran de montre hautement personnalisable pour montres Garmin Connect IQ. Conçu pour offrir une expérience utilisateur optimale, il combine design moderne et richesse fonctionnelle avec une personnalisation poussée de tous les éléments à l'écran.
-
-> **Note** : Cette documentation couvre à la fois FUSION IV (version standard) et FUSION IV SP (édition spéciale) car ils partagent les mêmes fonctionnalités et options de configuration.
 
 ### Caractéristiques Principales
 
@@ -696,7 +696,7 @@ FUSION IV supporte **73+ types de données** différents. Voici la liste complè
 
 **License Key** : Champ pour entrer votre clé de licence (15 caractères max)
 
-Le cadran FUSION IV SP peut fonctionner en mode gratuit avec certaines limitations. Une licence permet de débloquer toutes les fonctionnalités premium.
+Le cadran FUSION IV peut fonctionner en mode gratuit avec certaines limitations. Une licence permet de débloquer toutes les fonctionnalités premium.
 
 ### Obtenir une Licence
 
@@ -726,7 +726,7 @@ Pour obtenir une clé de licence :
 1. Connecter votre montre à l'ordinateur
 2. Ouvrir **Garmin Express**
 3. Accéder à **Connect IQ Store**
-4. Rechercher et installer **FUSION IV SP**
+4. Rechercher et installer **FUSION IV**
 5. Synchroniser
 
 ### Configuration Initiale
@@ -735,7 +735,7 @@ Après installation :
 
 1. Sur votre montre : **Maintenez** le bouton ou l'écran sur le cadran
 2. Sélectionnez **Paramètres**
-3. Ou configurez via **Garmin Connect** > **Connect IQ** > **FUSION IV SP** > **Paramètres**
+3. Ou configurez via **Garmin Connect** > **Connect IQ** > **FUSION IV** > **Paramètres**
 
 ---
 
@@ -788,7 +788,7 @@ Pour toute question, suggestion ou problème :
 
 - **GitHub** : [Créer une issue](https://github.com/Bastos65/fusion-iv-sp-docs)
 - **Email** : bastos65.gramin@gmail.com
-- **Forum Garmin** : [Discussion Fusion IV SP](https://forums.garmin.com)
+- **Forum Garmin** : [Discussion Fusion IV](https://forums.garmin.com)
 
 ---
 

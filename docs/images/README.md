@@ -1,6 +1,6 @@
 # 📸 Screenshots Placeholder
 
-Add your FUSION IV SP watch face screenshots in this directory.
+Add your FUSION IV watch face screenshots in this directory.
 
 ## Recommended Screenshots
 

@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest a new feature or enhancement for FUSION IV SP
+about: Suggest a new feature or enhancement for FUSION IV
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''

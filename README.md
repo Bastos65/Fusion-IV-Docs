@@ -1,8 +1,10 @@
-# FUSION IV / FUSION IV SP - Documentation
+# FUSION IV - Documentation
+
+> ⚠️ **DISCLAIMER**: This repository contains user documentation only. No source code, algorithms, backend logic or licensing mechanisms are included. Any attempt to reverse engineer the product is prohibited.
 
 ![FUSION IV Banner](docs/images/Banner.jpg)
 
-Complete documentation for **FUSION IV** and **FUSION IV SP** Garmin watch faces.
+Complete documentation for **FUSION IV** Garmin watch face.
 
 ## 📖 User Manuals
 
@@ -36,17 +38,10 @@ Choose your language:
 
 1. Open the **Garmin Connect IQ** app on your smartphone
 2. Search for "**Fusion IV**"
-3. Choose your preferred version:
-   - **[FUSION IV](https://apps.garmin.com/apps/b9432d01-482d-48b4-ad7f-684345a91dcd)** - Garmin Pay version
-   - **[FUSION IV SP](https://apps.garmin.com/apps/437f928e-903b-44cd-8991-ac69547ccfc2)** - Trial version + Stripe Pay
-4. Install directly to your watch
-
-**Version Differences:**
-- **FUSION IV**: Payment via Garmin Pay
-- **FUSION IV SP**: Free trial available + payment via Stripe
+3. Install **[FUSION IV](https://apps.garmin.com/apps/b9432d01-482d-48b4-ad7f-684345a91dcd)** directly to your watch
 
 **💳 Purchase License:**
-- **[Buy License via Stripe](https://pay.b65dev.com/checkout/buy?productId=fusion_4)** - Direct purchase for FUSION IV SP
+- **[Buy License via Stripe](https://pay.b65dev.com/checkout/buy?productId=fusion_4)** - Direct purchase for FUSION IV
 
 ## 📞 Support
 

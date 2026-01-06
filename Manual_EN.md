@@ -1,4 +1,6 @@
-# FUSION IV / FUSION IV SP - Complete Documentation
+# FUSION IV - Complete Documentation
+
+> ⚠️ **DISCLAIMER**: This repository contains user documentation only. No source code, algorithms, backend logic or licensing mechanisms are included. Any attempt to reverse engineer the product is prohibited.
 
 ![Version](https://img.shields.io/badge/version-Beta-blue)
 ![Platform](https://img.shields.io/badge/platform-Garmin%20Connect%20IQ-green)
@@ -32,8 +34,6 @@
 ## Overview
 
 **FUSION IV** is a highly customizable watch face for Garmin Connect IQ watches. Designed to provide an optimal user experience, it combines modern design and functional richness with extensive customization of all on-screen elements.
-
-> **Note**: This documentation covers both FUSION IV (standard version) and FUSION IV SP (special edition) as they share the same features and configuration options.
 
 ### Key Features
 
@@ -696,7 +696,7 @@ FUSION IV supports **73+ different data types**. Here is the complete list:
 
 **License Key**: Field to enter your license key (15 characters max)
 
-FUSION IV SP watch face can work in free mode with some limitations. A license unlocks all premium features.
+FUSION IV watch face can work in free mode with some limitations. A license unlocks all premium features.
 
 ### Obtaining a License
 
@@ -726,7 +726,7 @@ To obtain a license key:
 1. Connect your watch to the computer
 2. Open **Garmin Express**
 3. Access **Connect IQ Store**
-4. Search and install **FUSION IV SP**
+4. Search and install **FUSION IV**
 5. Synchronize
 
 ### Initial Setup
@@ -735,7 +735,7 @@ After installation:
 
 1. On your watch: **Long press** the button or screen on the watch face
 2. Select **Settings**
-3. Or configure via **Garmin Connect** > **Connect IQ** > **FUSION IV SP** > **Settings**
+3. Or configure via **Garmin Connect** > **Connect IQ** > **FUSION IV** > **Settings**
 
 ---
 
@@ -788,7 +788,7 @@ For any question, suggestion or problem:
 
 - **GitHub**: [Create an issue](https://github.com/Bastos65/fusion-iv-sp-docs)
 - **Email**: bastos65.gramin@gmail.com
-- **Garmin Forum**: [Fusion IV SP Discussion](https://forums.garmin.com)
+- **Garmin Forum**: [Fusion IV Discussion](https://forums.garmin.com)
 
 ---
 

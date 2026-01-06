@@ -1,4 +1,6 @@
-# FUSION IV / FUSION IV SP - Documentación Completa
+# FUSION IV - Documentación Completa
+
+> ⚠️ **AVISO LEGAL**: Este repositorio contiene únicamente documentación de usuario. No se incluye código fuente, algoritmos, lógica backend ni mecanismos de licencia. Cualquier intento de ingeniería inversa del producto está prohibido.
 
 ![Version](https://img.shields.io/badge/version-Beta-blue)
 ![Platform](https://img.shields.io/badge/platform-Garmin%20Connect%20IQ-green)
@@ -33,7 +35,6 @@
 
 **FUSION IV** es una esfera de reloj altamente personalizable para relojes Garmin Connect IQ. Diseñado para proporcionar una experiencia de usuario óptima, combina diseño moderno y riqueza funcional con una amplia personalización de todos los elementos en pantalla.
 
-> **Nota**: Esta documentación cubre tanto FUSION IV (versión estándar) como FUSION IV SP (edición especial) ya que comparten las mismas características y opciones de configuración.
 
 ### Características Clave
 
@@ -696,7 +697,7 @@ FUSION IV soporta **más de 73 tipos de datos diferentes**. Aquí está la lista
 
 **License Key**: Campo para ingresar tu clave de licencia (máximo 15 caracteres)
 
-La esfera del reloj FUSION IV SP puede funcionar en modo gratuito con algunas limitaciones. Una licencia desbloquea todas las características premium.
+La esfera del reloj FUSION IV puede funcionar en modo gratuito con algunas limitaciones. Una licencia desbloquea todas las características premium.
 
 ### Obtención de una Licencia
 
@@ -726,7 +727,7 @@ Para obtener una clave de licencia:
 1. Conecta tu reloj a la computadora
 2. Abre **Garmin Express**
 3. Accede a la **Tienda Connect IQ**
-4. Busca e instala **FUSION IV SP**
+4. Busca e instala **FUSION IV**
 5. Sincroniza
 
 ### Configuración Inicial
@@ -735,7 +736,7 @@ Después de la instalación:
 
 1. En tu reloj: **Mantén presionado** el botón o la pantalla en la esfera del reloj
 2. Selecciona **Configuración**
-3. O configura a través de **Garmin Connect** > **Connect IQ** > **FUSION IV SP** > **Configuración**
+3. O configura a través de **Garmin Connect** > **Connect IQ** > **FUSION IV** > **Configuración**
 
 ---
 
@@ -788,7 +789,7 @@ Para cualquier pregunta, sugerencia o problema:
 
 - **GitHub**: [Crear un issue](https://github.com/Bastos65/fusion-iv-sp-docs)
 - **Email**: bastos65.gramin@gmail.com
-- **Foro Garmin**: [Discusión de Fusion IV SP](https://forums.garmin.com)
+- **Foro Garmin**: [Discusión de Fusion IV](https://forums.garmin.com)
 
 ---
 

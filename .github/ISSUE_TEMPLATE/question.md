@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Ask a question about FUSION IV SP
+about: Ask a question about FUSION IV
 title: '[QUESTION] '
 labels: question
 assignees: ''
