@@ -20,7 +20,6 @@
    - [Color Customization](#color-customization)
    - [Weather](#weather)
 5. [Available Data Types](#available-data-types)
-6. [Support and Assistance](#support-and-assistance)
 
 ---
 
@@ -626,51 +625,6 @@ FUSION IV supports **73+ different data types**. Here is the complete list:
 | Type | Description |
 |------|-------------|
 | Debug Data | Debug data |
-
----
-
-## Support and Assistance
-
-### Common Issues
-
-#### Weather is not displaying
-
-**Solution**:
-1. Check that location is enabled
-2. Ensure phone is connected
-3. For OpenWeatherMap: verify API key
-4. Wait a few minutes after installation
-
-#### Watch face consumes too much battery
-
-**Solutions**:
-- Reduce refresh rate (Low or Medium)
-- Enable Screen Saver Delay
-- Hide seconds or use "Normal" mode
-- Reduce number of active data fields
-
-#### Data is not updating
-
-**Solutions**:
-- Increase refresh rate
-- Check watch face permissions
-- Restart watch
-
-#### Some data shows "---" or is empty
-
-**Cause**: Data not available on your watch model or sensor not present
-
-**Solution**: Replace with another compatible data type
-
-### Debug
-
-The **Debug Data** data type allows displaying diagnostic information:
-
-**Debug Data Type**:
-- Location: GPS coordinates
-- Location Age: GPS position age (seconds)
-- OWM Call Status: OpenWeatherMap call status
-- License Infos: License information
 
 ---
 

@@ -20,7 +20,7 @@
    - [Personalización de Colores](#personalización-de-colores)
    - [Clima](#clima)
 5. [Tipos de Datos Disponibles](#tipos-de-datos-disponibles)
-6. [Licencia y Activación](#licencia-y-activación)
+
 7. [Instalación](#instalación)
 8. [Soporte y Asistencia](#soporte-y-asistencia)
 
@@ -650,51 +650,6 @@ Para obtener una clave de licencia:
 ### Información de Versión
 
 **Release**: Muestra la versión actual de la esfera del reloj (solo lectura)
-
----
-
-## Soporte y Asistencia
-
-### Problemas Comunes
-
-#### El clima no se muestra
-
-**Solución**:
-1. Verifica que la ubicación esté habilitada
-2. Asegúrate de que el teléfono esté conectado
-3. Para OpenWeatherMap: verifica la clave API
-4. Espera unos minutos después de la instalación
-
-#### La esfera del reloj consume demasiada batería
-
-**Soluciones**:
-- Reduce la frecuencia de actualización (Baja o Media)
-- Activa Screen Saver Delay
-- Oculta los segundos o usa el modo "Normal"
-- Reduce el número de campos de datos activos
-
-#### Los datos no se actualizan
-
-**Soluciones**:
-- Aumenta la frecuencia de actualización
-- Verifica los permisos de la esfera del reloj
-- Reinicia el reloj
-
-#### Algunos datos muestran "---" o están vacíos
-
-**Causa**: Datos no disponibles en tu modelo de reloj o sensor no presente
-
-**Solución**: Reemplaza con otro tipo de datos compatible
-
-### Depuración
-
-El tipo de datos **Debug Data** permite mostrar información de diagnóstico:
-
-**Debug Data Type**:
-- Location: Coordenadas GPS
-- Location Age: Edad de la posición GPS (segundos)
-- OWM Call Status: Estado de llamada de OpenWeatherMap
-- License Infos: Información de licencia
 
 ---
 
