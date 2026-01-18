@@ -786,7 +786,7 @@ Le type de données **Debug Data** permet d'afficher des informations de diagnos
 
 Pour toute question, suggestion ou problème :
 
-- **GitHub** : [Créer une issue](https://github.com/Bastos65/fusion-iv-sp-docs)
+- **GitHub Issues** : [Signaler des bugs ou demander des fonctionnalités](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)
 - **Contact** : [Envoyer un message](https://pay.b65dev.com/portfolio/contact)
 - **Forum Garmin** : [Discussion Fusion IV](https://forums.garmin.com)
 
