@@ -11,19 +11,16 @@
 ## Table des Matières
 
 1. [Présentation](#présentation)
-2. [Compatibilité](#compatibilité)
-3. [Fonctionnalités Principales](#fonctionnalités-principales)
-4. [Interface Utilisateur](#interface-utilisateur)
-5. [Configuration](#configuration)
+2. [Fonctionnalités Principales](#fonctionnalités-principales)
+3. [Interface Utilisateur](#interface-utilisateur)
+4. [Configuration](#configuration)
    - [Paramètres Système](#paramètres-système)
    - [Paramètres d'Affichage](#paramètres-daffichage)
    - [Champs de Données](#champs-de-données)
    - [Personnalisation des Couleurs](#personnalisation-des-couleurs)
    - [Météo](#météo)
-6. [Types de Données Disponibles](#types-de-données-disponibles)
-7. [Licence et Activation](#licence-et-activation)
-8. [Installation](#installation)
-9. [Support et Assistance](#support-et-assistance)
+5. [Types de Données Disponibles](#types-de-données-disponibles)
+6. [Support et Assistance](#support-et-assistance)
 
 ---
 
@@ -47,63 +44,7 @@
 
 ---
 
-## Compatibilité
 
-### Montres Supportées
-
-FUSION IV est compatible avec les montres Garmin suivantes :
-
-#### Série Approach
-- Approach S70 (42mm, 47mm)
-
-#### Série Descent
-- Descent Mk3 (43mm, 51mm)
-
-#### Série Enduro
-- Enduro 3
-
-#### Série Epix
-- Epix 2 (toutes variantes)
-- Epix 2 Pro (42mm, 47mm, 51mm)
-
-#### Série Fenix
-- Fenix 7 (toutes variantes : standard, S, X, Pro)
-- Fenix 7X Pro (avec et sans WiFi)
-- Fenix 8 (43mm, 47mm, Pro 47mm, Solar 47mm/51mm)
-- Fenix E
-
-#### Série Forerunner
-- Forerunner 265 (standard et S)
-- Forerunner 570 (42mm, 47mm)
-- Forerunner 955
-- Forerunner 965
-- Forerunner 970
-
-#### Série MARQ
-- MARQ 2 (toutes variantes, incluant Aviator)
-
-#### Série Venu
-- Venu 3 (standard et S)
-- Venu 4 (41mm, 45mm)
-
-#### Série Vivoactive
-- Vivoactive 6
-
-#### Autres
-- D2 Mach 1
-
-### Prérequis Système
-
-- **API Minimum** : Connect IQ 5.0.0
-- **Permissions Requises** :
-  - Background (processus en arrière-plan)
-  - Communications (données météo)
-  - ComplicationSubscriber (complications)
-  - Positioning (GPS/localisation)
-  - SensorHistory (historique capteurs)
-  - UserProfile (profil utilisateur)
-
----
 
 ## Fonctionnalités Principales
 
@@ -286,7 +227,7 @@ Pour chaque champ de données, vous pouvez configurer :
 1. **Title + Value** : Titre au-dessus de la valeur
 2. **Value + Unit** : Valeur avec unité
 3. **Value + Title** : Valeur avec titre en dessous
-4. **Title + Value + Title** : Titre, valeur, titre
+4. **Title Value Unit** : Titre, valeur, unité
 
 ##### Champs Texte (Haut/Bas)
 
@@ -294,7 +235,7 @@ Pour chaque champ de données, vous pouvez configurer :
 1. **Title + Value** : Titre et valeur
 2. **Value + Unit** : Valeur avec unité
 3. **Value + Title** : Valeur avec titre
-4. **Title + Value + Title** : Titre complet
+4. **Title Value Unit** : Titre, valeur, unité
 5. **Title** : Titre uniquement
 6. **Goal** : Affichage objectif
 7. **Value / Goal** : Valeur sur objectif
@@ -313,8 +254,6 @@ Pour chaque champ de données, vous pouvez configurer :
 ### Personnalisation des Couleurs
 
 FUSION IV offre **28 couleurs personnalisables** :
-
-> 💡 **Voir la [Référence complète de la palette de couleurs](docs/COLOR_PALETTE.md) avec valeurs hex et aperçus visuels**
 
 #### Couleurs de Base
 
@@ -690,55 +629,6 @@ FUSION IV supporte **73+ types de données** différents. Voici la liste complè
 
 ---
 
-## Licence et Activation
-
-### Clé de Licence
-
-**License Key** : Champ pour entrer votre clé de licence (15 caractères max)
-
-Le cadran FUSION IV peut fonctionner en mode gratuit avec certaines limitations. Une licence permet de débloquer toutes les fonctionnalités premium.
-
-### Obtenir une Licence
-
-Pour obtenir une clé de licence :
-1. Visiter le site web du développeur
-2. Suivre les instructions d'achat/activation
-3. Entrer la clé dans les paramètres du cadran
-
-### Informations de Version
-
-**Release** : Affiche la version actuelle du cadran (lecture seule)
-
----
-
-## Installation
-
-### Via Garmin Connect IQ Store
-
-1. Ouvrir l'application **Garmin Connect** ou **Garmin Connect IQ**
-2. Rechercher "**FUSION IV**"
-3. Appuyer sur **Installer**
-4. Attendre la synchronisation avec votre montre
-5. Sélectionner le cadran depuis les paramètres de votre montre
-
-### Via Garmin Express (PC/Mac)
-
-1. Connecter votre montre à l'ordinateur
-2. Ouvrir **Garmin Express**
-3. Accéder à **Connect IQ Store**
-4. Rechercher et installer **FUSION IV**
-5. Synchroniser
-
-### Configuration Initiale
-
-Après installation :
-
-1. Sur votre montre : **Maintenez** le bouton ou l'écran sur le cadran
-2. Sélectionnez **Paramètres**
-3. Ou configurez via **Garmin Connect** > **Connect IQ** > **FUSION IV** > **Paramètres**
-
----
-
 ## Support et Assistance
 
 ### Problèmes Courants
@@ -781,81 +671,6 @@ Le type de données **Debug Data** permet d'afficher des informations de diagnos
 - Location Age : Âge de la position GPS (secondes)
 - OWM Call Status : État des appels OpenWeatherMap
 - License Infos : Informations de licence
-
-### Contact
-
-Pour toute question, suggestion ou problème :
-
-- **GitHub Issues** : [Signaler des bugs ou demander des fonctionnalités](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)
-- **Contact** : [Envoyer un message](https://pay.b65dev.com/portfolio/contact)
-
----
-
-## Licence Logicielle
-
-Copyright © 2026 Bastos65
-
-Tous droits réservés.
-
-Ce logiciel et sa documentation sont protégés par le droit d'auteur. Toute reproduction, distribution ou modification non autorisée est interdite.
-
----
-
-## Changelog
-
-### Version Beta (Actuelle)
-
-#### Nouveautés
-- Support de 38 modèles de montres Garmin
-- 73+ types de données disponibles
-- 28 couleurs personnalisables
-- Support dual météo (GW + OWM)
-- Mode économie d'énergie intelligent
-- 19 langues supportées
-
-#### Améliorations
-- Optimisation de la consommation batterie
-- Performance améliorée sur écrans AMOLED
-- Meilleure gestion des champs personnalisés
-
-#### Corrections
-- Divers bugs corrigés
-
----
-
-## FAQ
-
-### Q : Comment changer les couleurs ?
-
-**R :** Ouvrez les paramètres via Garmin Connect ou depuis la montre, puis naviguez dans la section des couleurs. Chaque élément peut être personnalisé indépendamment.
-
-### Q : Puis-je utiliser OpenWeatherMap gratuitement ?
-
-**R :** Oui, OpenWeatherMap propose un plan gratuit avec 1000 appels API par jour, largement suffisant pour un usage normal.
-
-### Q : Combien de champs de données puis-je afficher ?
-
-**R :** Le cadran supporte jusqu'à 18 zones de données configurables simultanément.
-
-### Q : Le cadran fonctionne-t-il hors ligne ?
-
-**R :** Oui, seules les données météo nécessitent une connexion. Toutes les autres données (capteurs, activité, etc.) fonctionnent hors ligne.
-
-### Q : Comment maximiser l'autonomie de la batterie ?
-
-**R :** 
-- Utilisez "Low Refresh Rate"
-- Activez le Screen Saver
-- Masquez ou limitez l'affichage des secondes
-- Réduisez le nombre de champs affichés
-
-### Q : Mon modèle de montre est-il compatible ?
-
-**R :** Consultez la section [Compatibilité](#compatibilité) pour voir la liste complète des montres supportées.
-
-### Q : Comment obtenir de l'aide ?
-
-**R :** Consultez la section [Support et Assistance](#support-et-assistance) pour les différents canaux de support.
 
 ---
 

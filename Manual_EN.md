@@ -11,19 +11,16 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Compatibility](#compatibility)
-3. [Main Features](#main-features)
-4. [User Interface](#user-interface)
-5. [Configuration](#configuration)
+2. [Main Features](#main-features)
+3. [User Interface](#user-interface)
+4. [Configuration](#configuration)
    - [System Settings](#system-settings)
    - [Display Settings](#display-settings)
    - [Data Fields](#data-fields)
    - [Color Customization](#color-customization)
    - [Weather](#weather)
-6. [Available Data Types](#available-data-types)
-7. [License and Activation](#license-and-activation)
-8. [Installation](#installation)
-9. [Support and Assistance](#support-and-assistance)
+5. [Available Data Types](#available-data-types)
+6. [Support and Assistance](#support-and-assistance)
 
 ---
 
@@ -47,63 +44,7 @@
 
 ---
 
-## Compatibility
 
-### Supported Watches
-
-FUSION IV is compatible with the following Garmin watches:
-
-#### Approach Series
-- Approach S70 (42mm, 47mm)
-
-#### Descent Series
-- Descent Mk3 (43mm, 51mm)
-
-#### Enduro Series
-- Enduro 3
-
-#### Epix Series
-- Epix 2 (all variants)
-- Epix 2 Pro (42mm, 47mm, 51mm)
-
-#### Fenix Series
-- Fenix 7 (all variants: standard, S, X, Pro)
-- Fenix 7X Pro (with and without WiFi)
-- Fenix 8 (43mm, 47mm, Pro 47mm, Solar 47mm/51mm)
-- Fenix E
-
-#### Forerunner Series
-- Forerunner 265 (standard and S)
-- Forerunner 570 (42mm, 47mm)
-- Forerunner 955
-- Forerunner 965
-- Forerunner 970
-
-#### MARQ Series
-- MARQ 2 (all variants, including Aviator)
-
-#### Venu Series
-- Venu 3 (standard and S)
-- Venu 4 (41mm, 45mm)
-
-#### Vivoactive Series
-- Vivoactive 6
-
-#### Others
-- D2 Mach 1
-
-### System Requirements
-
-- **Minimum API**: Connect IQ 5.0.0
-- **Required Permissions**:
-  - Background (background processes)
-  - Communications (weather data)
-  - ComplicationSubscriber (complications)
-  - Positioning (GPS/location)
-  - SensorHistory (sensor history)
-  - UserProfile (user profile)
-
----
 
 ## Main Features
 
@@ -286,7 +227,7 @@ For each data field, you can configure:
 1. **Title + Value**: Title above value
 2. **Value + Unit**: Value with unit
 3. **Value + Title**: Value with title below
-4. **Title + Value + Title**: Title, value, title
+4. **Title Value Unit**: Title, value, unit
 
 ##### Text Fields (Top/Bottom)
 
@@ -294,7 +235,7 @@ For each data field, you can configure:
 1. **Title + Value**: Title and value
 2. **Value + Unit**: Value with unit
 3. **Value + Title**: Value with title
-4. **Title + Value + Title**: Complete title
+4. **Title Value Unit**: Title, value, unit
 5. **Title**: Title only
 6. **Goal**: Goal display
 7. **Value / Goal**: Value over goal
@@ -313,8 +254,6 @@ For each data field, you can configure:
 ### Color Customization
 
 FUSION IV offers **28 customizable colors**:
-
-> 💡 **See the complete [Color Palette Reference](docs/COLOR_PALETTE.md) with hex values and visual previews**
 
 #### Base Colors
 
@@ -690,55 +629,6 @@ FUSION IV supports **73+ different data types**. Here is the complete list:
 
 ---
 
-## License and Activation
-
-### License Key
-
-**License Key**: Field to enter your license key (15 characters max)
-
-FUSION IV watch face can work in free mode with some limitations. A license unlocks all premium features.
-
-### Obtaining a License
-
-To obtain a license key:
-1. Visit the developer's website
-2. Follow purchase/activation instructions
-3. Enter the key in the watch face settings
-
-### Version Information
-
-**Release**: Displays current watch face version (read-only)
-
----
-
-## Installation
-
-### Via Garmin Connect IQ Store
-
-1. Open **Garmin Connect** or **Garmin Connect IQ** app
-2. Search for "**FUSION IV**"
-3. Tap **Install**
-4. Wait for synchronization with your watch
-5. Select the watch face from your watch settings
-
-### Via Garmin Express (PC/Mac)
-
-1. Connect your watch to the computer
-2. Open **Garmin Express**
-3. Access **Connect IQ Store**
-4. Search and install **FUSION IV**
-5. Synchronize
-
-### Initial Setup
-
-After installation:
-
-1. On your watch: **Long press** the button or screen on the watch face
-2. Select **Settings**
-3. Or configure via **Garmin Connect** > **Connect IQ** > **FUSION IV** > **Settings**
-
----
-
 ## Support and Assistance
 
 ### Common Issues
@@ -781,81 +671,6 @@ The **Debug Data** data type allows displaying diagnostic information:
 - Location Age: GPS position age (seconds)
 - OWM Call Status: OpenWeatherMap call status
 - License Infos: License information
-
-### Contact
-
-For any question, suggestion or problem:
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)
-- **Contact**: [Send a message](https://pay.b65dev.com/portfolio/contact)
-
----
-
-## Software License
-
-Copyright © 2026 Bastos65
-
-All rights reserved.
-
-This software and its documentation are protected by copyright. Any unauthorized reproduction, distribution or modification is prohibited.
-
----
-
-## Changelog
-
-### Beta Version (Current)
-
-#### New Features
-- Support for 38 Garmin watch models
-- 73+ available data types
-- 28 customizable colors
-- Dual weather support (GW + OWM)
-- Intelligent power saving mode
-- 19 supported languages
-
-#### Improvements
-- Battery consumption optimization
-- Improved performance on AMOLED screens
-- Better custom fields management
-
-#### Fixes
-- Various bugs fixed
-
----
-
-## FAQ
-
-### Q: How do I change colors?
-
-**A:** Open settings via Garmin Connect or from the watch, then navigate to the colors section. Each element can be customized independently.
-
-### Q: Can I use OpenWeatherMap for free?
-
-**A:** Yes, OpenWeatherMap offers a free plan with 1000 API calls per day, more than enough for normal usage.
-
-### Q: How many data fields can I display?
-
-**A:** The watch face supports up to 18 configurable data zones simultaneously.
-
-### Q: Does the watch face work offline?
-
-**A:** Yes, only weather data requires a connection. All other data (sensors, activity, etc.) works offline.
-
-### Q: How can I maximize battery life?
-
-**A:** 
-- Use "Low Refresh Rate"
-- Enable Screen Saver
-- Hide or limit seconds display
-- Reduce number of displayed fields
-
-### Q: Is my watch model compatible?
-
-**A:** Check the [Compatibility](#compatibility) section to see the complete list of supported watches.
-
-### Q: How do I get help?
-
-**A:** See the [Support and Assistance](#support-and-assistance) section for different support channels.
 
 ---
 

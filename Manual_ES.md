@@ -11,19 +11,18 @@
 ## Tabla de Contenidos
 
 1. [Descripción General](#descripción-general)
-2. [Compatibilidad](#compatibilidad)
-3. [Características Principales](#características-principales)
-4. [Interfaz de Usuario](#interfaz-de-usuario)
-5. [Configuración](#configuración)
+2. [Características Principales](#características-principales)
+3. [Interfaz de Usuario](#interfaz-de-usuario)
+4. [Configuración](#configuración)
    - [Configuración del Sistema](#configuración-del-sistema)
    - [Configuración de Pantalla](#configuración-de-pantalla)
    - [Campos de Datos](#campos-de-datos)
    - [Personalización de Colores](#personalización-de-colores)
    - [Clima](#clima)
-6. [Tipos de Datos Disponibles](#tipos-de-datos-disponibles)
-7. [Licencia y Activación](#licencia-y-activación)
-8. [Instalación](#instalación)
-9. [Soporte y Asistencia](#soporte-y-asistencia)
+5. [Tipos de Datos Disponibles](#tipos-de-datos-disponibles)
+6. [Licencia y Activación](#licencia-y-activación)
+7. [Instalación](#instalación)
+8. [Soporte y Asistencia](#soporte-y-asistencia)
 
 ---
 
@@ -48,63 +47,7 @@
 
 ---
 
-## Compatibilidad
 
-### Relojes Compatibles
-
-FUSION IV es compatible con los siguientes relojes Garmin:
-
-#### Serie Approach
-- Approach S70 (42mm, 47mm)
-
-#### Serie Descent
-- Descent Mk3 (43mm, 51mm)
-
-#### Serie Enduro
-- Enduro 3
-
-#### Serie Epix
-- Epix 2 (todas las variantes)
-- Epix 2 Pro (42mm, 47mm, 51mm)
-
-#### Serie Fenix
-- Fenix 7 (todas las variantes: estándar, S, X, Pro)
-- Fenix 7X Pro (con y sin WiFi)
-- Fenix 8 (43mm, 47mm, Pro 47mm, Solar 47mm/51mm)
-- Fenix E
-
-#### Serie Forerunner
-- Forerunner 265 (estándar y S)
-- Forerunner 570 (42mm, 47mm)
-- Forerunner 955
-- Forerunner 965
-- Forerunner 970
-
-#### Serie MARQ
-- MARQ 2 (todas las variantes, incluyendo Aviator)
-
-#### Serie Venu
-- Venu 3 (estándar y S)
-- Venu 4 (41mm, 45mm)
-
-#### Serie Vivoactive
-- Vivoactive 6
-
-#### Otros
-- D2 Mach 1
-
-### Requisitos del Sistema
-
-- **API Mínima**: Connect IQ 5.0.0
-- **Permisos Requeridos**:
-  - Background (procesos en segundo plano)
-  - Communications (datos meteorológicos)
-  - ComplicationSubscriber (complicaciones)
-  - Positioning (GPS/ubicación)
-  - SensorHistory (historial de sensores)
-  - UserProfile (perfil de usuario)
-
----
 
 ## Características Principales
 
@@ -287,7 +230,7 @@ Para cada campo de datos, puedes configurar:
 1. **Title + Value**: Título encima del valor
 2. **Value + Unit**: Valor con unidad
 3. **Value + Title**: Valor con título debajo
-4. **Title + Value + Title**: Título, valor, título
+4. **Title Value Unit**: Título, valor, unidad
 
 ##### Campos de Texto (Superior/Inferior)
 
@@ -295,7 +238,7 @@ Para cada campo de datos, puedes configurar:
 1. **Title + Value**: Título y valor
 2. **Value + Unit**: Valor con unidad
 3. **Value + Title**: Valor con título
-4. **Title + Value + Title**: Título completo
+4. **Title Value Unit**: Título, valor, unidad
 5. **Title**: Solo título
 6. **Goal**: Visualización de objetivo
 7. **Value / Goal**: Valor sobre objetivo
@@ -314,8 +257,6 @@ Para cada campo de datos, puedes configurar:
 ### Personalización de Colores
 
 FUSION IV ofrece **28 colores personalizables**:
-
-> 💡 **Ver la [Referencia de Paleta de Colores](docs/COLOR_PALETTE.md) completa con valores hexadecimales y vistas previas visuales**
 
 #### Colores Base
 
@@ -712,34 +653,6 @@ Para obtener una clave de licencia:
 
 ---
 
-## Instalación
-
-### A través de la Tienda Garmin Connect IQ
-
-1. Abre la aplicación **Garmin Connect** o **Garmin Connect IQ**
-2. Busca "**FUSION IV**"
-3. Toca **Instalar**
-4. Espera la sincronización con tu reloj
-5. Selecciona la esfera del reloj desde la configuración de tu reloj
-
-### A través de Garmin Express (PC/Mac)
-
-1. Conecta tu reloj a la computadora
-2. Abre **Garmin Express**
-3. Accede a la **Tienda Connect IQ**
-4. Busca e instala **FUSION IV**
-5. Sincroniza
-
-### Configuración Inicial
-
-Después de la instalación:
-
-1. En tu reloj: **Mantén presionado** el botón o la pantalla en la esfera del reloj
-2. Selecciona **Configuración**
-3. O configura a través de **Garmin Connect** > **Connect IQ** > **FUSION IV** > **Configuración**
-
----
-
 ## Soporte y Asistencia
 
 ### Problemas Comunes
@@ -782,81 +695,6 @@ El tipo de datos **Debug Data** permite mostrar información de diagnóstico:
 - Location Age: Edad de la posición GPS (segundos)
 - OWM Call Status: Estado de llamada de OpenWeatherMap
 - License Infos: Información de licencia
-
-### Contacto
-
-Para cualquier pregunta, sugerencia o problema:
-
-- **GitHub Issues**: [Reportar bugs o solicitar funcionalidades](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)
-- **Contacto**: [Enviar un mensaje](https://pay.b65dev.com/portfolio/contact)
-
----
-
-## Licencia de Software
-
-Copyright © 2026 Bastos65
-
-Todos los derechos reservados.
-
-Este software y su documentación están protegidos por derechos de autor. Cualquier reproducción, distribución o modificación no autorizada está prohibida.
-
----
-
-## Registro de Cambios
-
-### Versión Beta (Actual)
-
-#### Nuevas Características
-- Soporte para 38 modelos de reloj Garmin
-- Más de 73 tipos de datos disponibles
-- 28 colores personalizables
-- Soporte dual de clima (GW + OWM)
-- Modo inteligente de ahorro de energía
-- 19 idiomas compatibles
-
-#### Mejoras
-- Optimización del consumo de batería
-- Mejor rendimiento en pantallas AMOLED
-- Mejor gestión de campos personalizados
-
-#### Correcciones
-- Varios errores corregidos
-
----
-
-## Preguntas Frecuentes
-
-### P: ¿Cómo cambio los colores?
-
-**R:** Abre la configuración a través de Garmin Connect o desde el reloj, luego navega a la sección de colores. Cada elemento puede personalizarse independientemente.
-
-### P: ¿Puedo usar OpenWeatherMap gratis?
-
-**R:** Sí, OpenWeatherMap ofrece un plan gratuito con 1000 llamadas API por día, más que suficiente para uso normal.
-
-### P: ¿Cuántos campos de datos puedo mostrar?
-
-**R:** La esfera del reloj soporta hasta 18 zonas de datos configurables simultáneamente.
-
-### P: ¿Funciona la esfera del reloj sin conexión?
-
-**R:** Sí, solo los datos meteorológicos requieren conexión. Todos los demás datos (sensores, actividad, etc.) funcionan sin conexión.
-
-### P: ¿Cómo puedo maximizar la vida de la batería?
-
-**R:** 
-- Usa "Low Refresh Rate"
-- Activa Screen Saver
-- Oculta o limita la visualización de segundos
-- Reduce el número de campos mostrados
-
-### P: ¿Mi modelo de reloj es compatible?
-
-**R:** Consulta la sección [Compatibilidad](#compatibilidad) para ver la lista completa de relojes compatibles.
-
-### P: ¿Cómo obtengo ayuda?
-
-**R:** Consulta la sección [Soporte y Asistencia](#soporte-y-asistencia) para los diferentes canales de soporte.
 
 ---
 
