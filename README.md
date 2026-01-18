@@ -45,6 +45,8 @@ Choose your language:
 
 For questions, bug reports, or feature requests, please visit our **[Support Repository](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)**.
 
+For direct inquiries: **[Contact Us](https://pay.b65dev.com/portfolio/contact)**
+
 ---
 
 **Version:** 1.0.0  

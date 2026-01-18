@@ -788,7 +788,6 @@ For any question, suggestion or problem:
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)
 - **Contact**: [Send a message](https://pay.b65dev.com/portfolio/contact)
-- **Garmin Forum**: [Fusion IV Discussion](https://forums.garmin.com)
 
 ---
 
