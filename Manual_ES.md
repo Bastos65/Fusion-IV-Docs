@@ -332,51 +332,50 @@ FUSION IV ofrece **28 colores personalizables**:
 
 La esfera del reloj ofrece **67 colores predefinidos** organizados por familia:
 
-<table>
-<tr><th>Nombre del Color</th><th>Código Hex</th><th>Vista Previa</th></tr>
-<tr><td colspan="3"><strong>Básicos</strong></td></tr>
-<tr><td>Black</td><td><code>0x000000</code></td><td style="background-color:#000000; width:80px; height:25px;"></td></tr>
-<tr><td>White</td><td><code>0xffffff</code></td><td style="background-color:#ffffff; border:1px solid #ccc; width:80px; height:25px;"></td></tr>
-<tr><td>Gray</td><td><code>0xaaaaaa</code></td><td style="background-color:#aaaaaa; width:80px; height:25px;"></td></tr>
-<tr><td>Gray: Stone Cold</td><td><code>0x555555</code></td><td style="background-color:#555555; width:80px; height:25px;"></td></tr>
-<tr><td colspan="3"><strong>Azules</strong></td></tr>
-<tr><td>Blue</td><td><code>0x0000ff</code></td><td style="background-color:#0000ff; width:80px; height:25px;"></td></tr>
-<tr><td>Blue: Bohemian</td><td><code>0x0000aa</code></td><td style="background-color:#0000aa; width:80px; height:25px;"></td></tr>
-<tr><td>Blue: Cerulean</td><td><code>0x55aaff</code></td><td style="background-color:#55aaff; width:80px; height:25px;"></td></tr>
-<tr><td>Blue: Hawaii Morning</td><td><code>0x00aaff</code></td><td style="background-color:#00aaff; width:80px; height:25px;"></td></tr>
-<tr><td>Blue: Magic Ink</td><td><code>0x0055ff</code></td><td style="background-color:#0055ff; width:80px; height:25px;"></td></tr>
-<tr><td>Blue: Soul Stone</td><td><code>0x0055aa</code></td><td style="background-color:#0055aa; width:80px; height:25px;"></td></tr>
-<tr><td colspan="3"><strong>Verdes</strong></td></tr>
-<tr><td>Green: Billiard</td><td><code>0x00aaaa</code></td><td style="background-color:#00aaaa; width:80px; height:25px;"></td></tr>
-<tr><td>Green: Duck Hunt</td><td><code>0x005500</code></td><td style="background-color:#005500; width:80px; height:25px;"></td></tr>
-<tr><td>Green: Illicit Green</td><td><code>0x55ffaa</code></td><td style="background-color:#55ffaa; width:80px; height:25px;"></td></tr>
-<tr><td>Green: Lime</td><td><code>0x00ff00</code></td><td style="background-color:#00ff00; width:80px; height:25px;"></td></tr>
-<tr><td>Green: Yoshi</td><td><code>0x55aa00</code></td><td style="background-color:#55aa00; width:80px; height:25px;"></td></tr>
-<tr><td colspan="3"><strong>Rojos</strong></td></tr>
-<tr><td>Red</td><td><code>0xff0000</code></td><td style="background-color:#ff0000; width:80px; height:25px;"></td></tr>
-<tr><td>Red: Heartbeat</td><td><code>0xaa0000</code></td><td style="background-color:#aa0000; width:80px; height:25px;"></td></tr>
-<tr><td colspan="3"><strong>Púrpuras/Rosas</strong></td></tr>
-<tr><td>Purple: Bellflower</td><td><code>0x5555aa</code></td><td style="background-color:#5555aa; width:80px; height:25px;"></td></tr>
-<tr><td>Purple: Cloak and Dagger</td><td><code>0x550055</code></td><td style="background-color:#550055; width:80px; height:25px;"></td></tr>
-<tr><td>Purple: Magentle</td><td><code>0xaa00aa</code></td><td style="background-color:#aa00aa; width:80px; height:25px;"></td></tr>
-<tr><td>Purple: Poison</td><td><code>0xaa00ff</code></td><td style="background-color:#aa00ff; width:80px; height:25px;"></td></tr>
-<tr><td>Pink: Fuchsia Fever</td><td><code>0xff55aa</code></td><td style="background-color:#ff55aa; width:80px; height:25px;"></td></tr>
-<tr><td>Pink: Magenta</td><td><code>0xff00ff</code></td><td style="background-color:#ff00ff; width:80px; height:25px;"></td></tr>
-<tr><td>Pink: Pac-Man Kiss</td><td><code>0xff00aa</code></td><td style="background-color:#ff00aa; width:80px; height:25px;"></td></tr>
-<tr><td colspan="3"><strong>Amarillos/Naranjas</strong></td></tr>
-<tr><td>Yellow</td><td><code>0xffff00</code></td><td style="background-color:#ffff00; width:80px; height:25px;"></td></tr>
-<tr><td>Yellow: Honey and Thyme</td><td><code>0xaaaa00</code></td><td style="background-color:#aaaa00; width:80px; height:25px;"></td></tr>
-<tr><td>Orange</td><td><code>0xffaa00</code></td><td style="background-color:#ffaa00; width:80px; height:25px;"></td></tr>
-<tr><td colspan="3"><strong>Marrones</strong></td></tr>
-<tr><td>Brown: Pepperoni</td><td><code>0xaa5500</code></td><td style="background-color:#aa5500; width:80px; height:25px;"></td></tr>
-<tr><td>Brown: Spikey Red</td><td><code>0x550000</code></td><td style="background-color:#550000; width:80px; height:25px;"></td></tr>
-<tr><td colspan="3"><strong>Cian</strong></td></tr>
-<tr><td>Cyan</td><td><code>0x00ffff</code></td><td style="background-color:#00ffff; width:80px; height:25px;"></td></tr>
-<tr><td colspan="3"><strong>Colores Personalizados</strong></td></tr>
-<tr><td>Custom Color 1</td><td colspan="2">Definido por el usuario mediante código hexadecimal</td></tr>
-<tr><td>Custom Color 2</td><td colspan="2">Definido por el usuario mediante código hexadecimal</td></tr>
-<tr><td>Custom Color 3</td><td colspan="2">Definido por el usuario mediante código hexadecimal</td></tr>
-</table>
+| Nombre del Color | Código Hex |
+|------------------|------------|
+| **Básicos** | |
+| Black | `0x000000` |
+| White | `0xffffff` |
+| Gray | `0xaaaaaa` |
+| Gray: Stone Cold | `0x555555` |
+| **Azules** | |
+| Blue | `0x0000ff` |
+| Blue: Bohemian | `0x0000aa` |
+| Blue: Cerulean | `0x55aaff` |
+| Blue: Hawaii Morning | `0x00aaff` |
+| Blue: Magic Ink | `0x0055ff` |
+| Blue: Soul Stone | `0x0055aa` |
+| **Verdes** | |
+| Green: Billiard | `0x00aaaa` |
+| Green: Duck Hunt | `0x005500` |
+| Green: Illicit Green | `0x55ffaa` |
+| Green: Lime | `0x00ff00` |
+| Green: Yoshi | `0x55aa00` |
+| **Rojos** | |
+| Red | `0xff0000` |
+| Red: Heartbeat | `0xaa0000` |
+| **Púrpuras/Rosas** | |
+| Purple: Bellflower | `0x5555aa` |
+| Purple: Cloak and Dagger | `0x550055` |
+| Purple: Magentle | `0xaa00aa` |
+| Purple: Poison | `0xaa00ff` |
+| Pink: Fuchsia Fever | `0xff55aa` |
+| Pink: Magenta | `0xff00ff` |
+| Pink: Pac-Man Kiss | `0xff00aa` |
+| **Amarillos/Naranjas** | |
+| Yellow | `0xffff00` |
+| Yellow: Honey and Thyme | `0xaaaa00` |
+| Orange | `0xffaa00` |
+| **Marrones** | |
+| Brown: Pepperoni | `0xaa5500` |
+| Brown: Spikey Red | `0x550000` |
+| **Cian** | |
+| Cyan | `0x00ffff` |
+| **Colores Personalizados** | |
+| Custom Color 1 | Definido por el usuario mediante código hexadecimal |
+| Custom Color 2 | Definido por el usuario mediante código hexadecimal |
+| Custom Color 3 | Definido por el usuario mediante código hexadecimal |
 
 ### Opciones Especiales de Color
 
