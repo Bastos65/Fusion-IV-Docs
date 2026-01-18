@@ -19,9 +19,7 @@ Choose your language:
 - **[Portfolio](https://pay.b65dev.com/portfolio)** - All our Garmin watch faces
 - **[FAQs](https://pay.b65dev.com/portfolio/faqs)** - Frequently Asked Questions
 - **[Changelog](CHANGELOG.md)** - Version history and updates
-- **[Report a Bug](../../issues/new?template=bug_report.md)** - Found an issue?
-- **[Request a Feature](../../issues/new?template=feature_request.md)** - Have an idea?
-- **[Ask a Question](../../issues/new?template=question.md)** - Need help?
+- **[Support & Feedback](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)** - Report bugs, request features, or ask questions
 
 ## ✨ Key Features
 
@@ -45,7 +43,7 @@ Choose your language:
 
 ## 📞 Support
 
-For questions, bug reports, or feature requests, please use the [Issues](../../issues) section.
+For questions, bug reports, or feature requests, please visit our **[Support Repository](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)**.
 
 ---
 
