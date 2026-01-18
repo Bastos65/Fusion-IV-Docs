@@ -20,6 +20,8 @@
    - [Color Customization](#color-customization)
    - [Weather](#weather)
 5. [Available Data Types](#available-data-types)
+6. [Glossary](#glossary)
+7. [Appendices](#appendices)
 
 ---
 

@@ -20,6 +20,8 @@
    - [Personalización de Colores](#personalización-de-colores)
    - [Clima](#clima)
 5. [Tipos de Datos Disponibles](#tipos-de-datos-disponibles)
+6. [Glosario](#glosario)
+7. [Apéndices](#apéndices)
 
 7. [Instalación](#instalación)
 8. [Soporte y Asistencia](#soporte-y-asistencia)

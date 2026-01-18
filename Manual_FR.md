@@ -20,7 +20,8 @@
    - [Personnalisation des Couleurs](#personnalisation-des-couleurs)
    - [Météo](#météo)
 5. [Types de Données Disponibles](#types-de-données-disponibles)
-6. [Support et Assistance](#support-et-assistance)
+6. [Glossaire](#glossaire)
+7. [Annexes](#annexes)
 
 ---
 
