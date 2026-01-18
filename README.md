@@ -41,11 +41,42 @@ Choose your language:
 **💳 Purchase License:**
 - **[Buy License via Stripe](https://pay.b65dev.com/checkout/buy?productId=fusion_4)** - Direct purchase for FUSION IV
 
-## 📞 Support
+## 📞 Support & Assistance
 
-For questions, bug reports, or feature requests, please visit our **[Support Repository](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)**.
+### How to Submit an Issue
 
-For direct inquiries: **[Contact Us](https://pay.b65dev.com/portfolio/contact)**
+We use a centralized support repository for all our Garmin watch faces. Here's how to submit your request:
+
+**1. Visit our Support Repository**  
+👉 **[Garmin Watchfaces Support](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)**
+
+**2. Create a New Issue**  
+Click on **"New Issue"** and choose the appropriate template:
+
+- 🐛 **[Bug Report](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues/new?template=bug_report.md)** - Report a problem or malfunction
+  - Select "FUSION IV" from the watch face list
+  - Describe the issue in detail
+  - Include your watch model and software version
+  - Add screenshots if possible
+
+- ✨ **[Feature Request](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues/new?template=feature_request.md)** - Suggest a new feature or improvement
+  - Select "FUSION IV" from the watch face list
+  - Describe your idea clearly
+  - Explain why this feature would be useful
+
+- ❓ **[Question](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues/new?template=question.md)** - Ask for help or clarification
+  - Select "FUSION IV" from the watch face list
+  - Ask your question clearly
+  - Provide context if needed
+
+**3. Alternative: Direct Contact**  
+For private inquiries or licensing issues: **[Contact Us](https://pay.b65dev.com/portfolio/contact)**
+
+### Before Submitting
+
+- ✅ Check the **[FAQs](https://pay.b65dev.com/portfolio/faqs)** first - your question may already be answered
+- ✅ Search existing issues to avoid duplicates
+- ✅ Make sure you're using the latest version
 
 ---
 
