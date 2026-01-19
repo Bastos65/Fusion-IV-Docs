@@ -326,52 +326,9 @@ FUSION IV offers **28 customizable colors**:
 
 ### Predefined Color Palette
 
-The watch face offers **67 predefined colors** organized by family:
+The watch face offers **67 predefined colors** organized by family.
 
-| Color Name | Hex Code |
-|------------|----------|
-| **Basics** | |
-| Black | `0x000000` |
-| White | `0xffffff` |
-| Gray | `0xaaaaaa` |
-| Gray: Stone Cold | `0x555555` |
-| **Blues** | |
-| Blue | `0x0000ff` |
-| Blue: Bohemian | `0x0000aa` |
-| Blue: Cerulean | `0x55aaff` |
-| Blue: Hawaii Morning | `0x00aaff` |
-| Blue: Magic Ink | `0x0055ff` |
-| Blue: Soul Stone | `0x0055aa` |
-| **Greens** | |
-| Green: Billiard | `0x00aaaa` |
-| Green: Duck Hunt | `0x005500` |
-| Green: Illicit Green | `0x55ffaa` |
-| Green: Lime | `0x00ff00` |
-| Green: Yoshi | `0x55aa00` |
-| **Reds** | |
-| Red | `0xff0000` |
-| Red: Heartbeat | `0xaa0000` |
-| **Purples/Pinks** | |
-| Purple: Bellflower | `0x5555aa` |
-| Purple: Cloak and Dagger | `0x550055` |
-| Purple: Magentle | `0xaa00aa` |
-| Purple: Poison | `0xaa00ff` |
-| Pink: Fuchsia Fever | `0xff55aa` |
-| Pink: Magenta | `0xff00ff` |
-| Pink: Pac-Man Kiss | `0xff00aa` |
-| **Yellows/Oranges** | |
-| Yellow | `0xffff00` |
-| Yellow: Honey and Thyme | `0xaaaa00` |
-| Orange | `0xffaa00` |
-| **Browns** | |
-| Brown: Pepperoni | `0xaa5500` |
-| Brown: Spikey Red | `0x550000` |
-| **Cyan** | |
-| Cyan | `0x00ffff` |
-| **Custom Colors** | |
-| Custom Color 1 | User-defined via hex code |
-| Custom Color 2 | User-defined via hex code |
-| Custom Color 3 | User-defined via hex code |
+➡️ **[View complete color list](https://pay.b65dev.com/portfolio/faqs#faq-colors)**
 
 ### Special Color Options
 

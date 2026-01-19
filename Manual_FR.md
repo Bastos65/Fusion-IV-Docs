@@ -326,52 +326,9 @@ FUSION IV offre **28 couleurs personnalisables** :
 
 ### Palette de Couleurs Prédéfinies
 
-Le cadran propose **67 couleurs prédéfinies** organisées par famille :
+Le cadran propose **67 couleurs prédéfinies** organisées par famille.
 
-| Nom de la Couleur | Code Hex |
-|-------------------|----------|
-| **Basiques** | |
-| Black | `0x000000` |
-| White | `0xffffff` |
-| Gray | `0xaaaaaa` |
-| Gray: Stone Cold | `0x555555` |
-| **Bleus** | |
-| Blue | `0x0000ff` |
-| Blue: Bohemian | `0x0000aa` |
-| Blue: Cerulean | `0x55aaff` |
-| Blue: Hawaii Morning | `0x00aaff` |
-| Blue: Magic Ink | `0x0055ff` |
-| Blue: Soul Stone | `0x0055aa` |
-| **Verts** | |
-| Green: Billiard | `0x00aaaa` |
-| Green: Duck Hunt | `0x005500` |
-| Green: Illicit Green | `0x55ffaa` |
-| Green: Lime | `0x00ff00` |
-| Green: Yoshi | `0x55aa00` |
-| **Rouges** | |
-| Red | `0xff0000` |
-| Red: Heartbeat | `0xaa0000` |
-| **Violets/Roses** | |
-| Purple: Bellflower | `0x5555aa` |
-| Purple: Cloak and Dagger | `0x550055` |
-| Purple: Magentle | `0xaa00aa` |
-| Purple: Poison | `0xaa00ff` |
-| Pink: Fuchsia Fever | `0xff55aa` |
-| Pink: Magenta | `0xff00ff` |
-| Pink: Pac-Man Kiss | `0xff00aa` |
-| **Jaunes/Oranges** | |
-| Yellow | `0xffff00` |
-| Yellow: Honey and Thyme | `0xaaaa00` |
-| Orange | `0xffaa00` |
-| **Marrons** | |
-| Brown: Pepperoni | `0xaa5500` |
-| Brown: Spikey Red | `0x550000` |
-| **Cyan** | |
-| Cyan | `0x00ffff` |
-| **Couleurs Personnalisées** | |
-| Custom Color 1 | Défini par l'utilisateur via code hex |
-| Custom Color 2 | Défini par l'utilisateur via code hex |
-| Custom Color 3 | Défini par l'utilisateur via code hex |
+➡️ **[Voir la liste complète des couleurs](https://pay.b65dev.com/portfolio/faqs#faq-colors)**
 
 ### Options Spéciales de Couleurs
 

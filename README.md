@@ -32,51 +32,41 @@ Choose your language:
 
 ## 📥 Installation
 
-**Installation is done through the Garmin Connect IQ mobile app:**
+For complete installation and purchase instructions, please refer to our comprehensive guide:
 
-1. Open the **Garmin Connect IQ** app on your smartphone
-2. Search for "**Fusion IV**"
-3. Install **[FUSION IV](https://apps.garmin.com/apps/b9432d01-482d-48b4-ad7f-684345a91dcd)** directly to your watch
+👉 **[Purchase & Installation Guide](https://pay.b65dev.com/portfolio/faqs#purchase-guide)**
 
-**💳 Purchase License:**
-- **[Buy License via Stripe](https://pay.b65dev.com/checkout/buy?productId=fusion_4)** - Direct purchase for FUSION IV
+This guide covers:
+- Installation via Garmin Connect IQ app
+- Free trial period details
+- Purchase options (Garmin Pay vs Stripe Pay)
+- License activation steps
 
 ## 📞 Support & Assistance
 
-### How to Submit an Issue
+### Before Submitting an Issue
 
-We use a centralized support repository for all our Garmin watch faces. Here's how to submit your request:
+**⚠️ Please consult our FAQs first:**
 
-**1. Visit our Support Repository**  
-👉 **[Garmin Watchfaces Support](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)**
+👉 **[Features & Bugs Reporting Guide](https://pay.b65dev.com/portfolio/faqs#features-bugs)**
 
-**2. Create a New Issue**  
-Click on **"New Issue"** and choose the appropriate template:
+This section covers:
+- Quick troubleshooting steps to try first
+- How to retrieve debug logs from your watch
+- Complete guide for submitting detailed bug reports
 
-- 🐛 **[Bug Report](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues/new?template=bug_report.md)** - Report a problem or malfunction
-  - Select "FUSION IV" from the watch face list
-  - Describe the issue in detail
-  - Include your watch model and software version
-  - Add screenshots if possible
+### Submit an Issue
 
-- ✨ **[Feature Request](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues/new?template=feature_request.md)** - Suggest a new feature or improvement
-  - Select "FUSION IV" from the watch face list
-  - Describe your idea clearly
-  - Explain why this feature would be useful
+We use a centralized support repository for all our Garmin watch faces:
 
-- ❓ **[Question](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues/new?template=question.md)** - Ask for help or clarification
-  - Select "FUSION IV" from the watch face list
-  - Ask your question clearly
-  - Provide context if needed
+👉 **[Garmin Watchfaces Support Repository](https://github.com/Bastos65/Garmin-Watchfaces-Support)**
 
-**3. Alternative: Direct Contact**  
-For private inquiries or licensing issues: **[Contact Us](https://pay.b65dev.com/portfolio/contact)**
+Please read the repository's README for detailed instructions on submitting bug reports, feature requests, or questions.
 
-### Before Submitting
+### Alternative Contact
 
-- ✅ Check the **[FAQs](https://pay.b65dev.com/portfolio/faqs)** first - your question may already be answered
-- ✅ Search existing issues to avoid duplicates
-- ✅ Make sure you're using the latest version
+For private inquiries or licensing issues:  
+**[Contact Us](https://pay.b65dev.com/portfolio/contact)**
 
 ---
 

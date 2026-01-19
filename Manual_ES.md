@@ -330,52 +330,9 @@ FUSION IV ofrece **28 colores personalizables**:
 
 ### Paleta de Colores Predefinidos
 
-La esfera del reloj ofrece **67 colores predefinidos** organizados por familia:
+La esfera del reloj ofrece **67 colores predefinidos** organizados por familia.
 
-| Nombre del Color | Código Hex |
-|------------------|------------|
-| **Básicos** | |
-| Black | `0x000000` |
-| White | `0xffffff` |
-| Gray | `0xaaaaaa` |
-| Gray: Stone Cold | `0x555555` |
-| **Azules** | |
-| Blue | `0x0000ff` |
-| Blue: Bohemian | `0x0000aa` |
-| Blue: Cerulean | `0x55aaff` |
-| Blue: Hawaii Morning | `0x00aaff` |
-| Blue: Magic Ink | `0x0055ff` |
-| Blue: Soul Stone | `0x0055aa` |
-| **Verdes** | |
-| Green: Billiard | `0x00aaaa` |
-| Green: Duck Hunt | `0x005500` |
-| Green: Illicit Green | `0x55ffaa` |
-| Green: Lime | `0x00ff00` |
-| Green: Yoshi | `0x55aa00` |
-| **Rojos** | |
-| Red | `0xff0000` |
-| Red: Heartbeat | `0xaa0000` |
-| **Púrpuras/Rosas** | |
-| Purple: Bellflower | `0x5555aa` |
-| Purple: Cloak and Dagger | `0x550055` |
-| Purple: Magentle | `0xaa00aa` |
-| Purple: Poison | `0xaa00ff` |
-| Pink: Fuchsia Fever | `0xff55aa` |
-| Pink: Magenta | `0xff00ff` |
-| Pink: Pac-Man Kiss | `0xff00aa` |
-| **Amarillos/Naranjas** | |
-| Yellow | `0xffff00` |
-| Yellow: Honey and Thyme | `0xaaaa00` |
-| Orange | `0xffaa00` |
-| **Marrones** | |
-| Brown: Pepperoni | `0xaa5500` |
-| Brown: Spikey Red | `0x550000` |
-| **Cian** | |
-| Cyan | `0x00ffff` |
-| **Colores Personalizados** | |
-| Custom Color 1 | Definido por el usuario mediante código hexadecimal |
-| Custom Color 2 | Definido por el usuario mediante código hexadecimal |
-| Custom Color 3 | Definido por el usuario mediante código hexadecimal |
+➡️ **[Ver lista completa de colores](https://pay.b65dev.com/portfolio/faqs#faq-colors)**
 
 ### Opciones Especiales de Color
 
