@@ -19,7 +19,6 @@ Choose your language:
 - **[Portfolio](https://pay.b65dev.com/portfolio)** - All our Garmin watch faces
 - **[FAQs](https://pay.b65dev.com/portfolio/faqs)** - Frequently Asked Questions
 - **[Changelog](CHANGELOG.md)** - Version history and updates
-- **[Support & Feedback](https://github.com/Bastos65/Garmin-Watchfaces-Support/issues)** - Report bugs, request features, or ask questions
 
 ## ✨ Key Features
 
