@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.2.0] - 2026-03-06
+
+### Added
+- Full interface translations for French (FR), Spanish (ES), Italian (IT), and German (DE) in settings
+
+---
+
 ## [1.1.1] - 2026-03-03
 
 ### Fixed

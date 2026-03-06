@@ -39,7 +39,7 @@
 - 📊 **Multiple Data Fields**: 18 configurable data zones
 - 🌦️ **Weather Integration**: Supports Garmin Weather and OpenWeatherMap
 - ⚡ **Battery Optimization**: Intelligent power saving modes
-- 🌍 **Multilingual Support**: 19 languages available
+- 🌍 **Multilingual Support**: 19 languages — full interface translations for French (FR), Spanish (ES), Italian (IT) and German (DE); base translations for Bulgarian, Czech, Danish, Dutch, Finnish, Croatian, Hungarian, Norwegian, Polish, Portuguese, Russian, Slovak, Slovenian, and Swedish
 - 🎯 **Goals and Tracking**: Progress bars for your objectives
 - 🌙 **Night Mode**: Configurable screen protection
 
