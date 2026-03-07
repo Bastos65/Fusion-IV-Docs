@@ -228,7 +228,7 @@ For each data field, you can configure:
 1. **Title + Value**: Title above value
 2. **Value + Unit**: Value with unit
 3. **Value + Title**: Value with title below
-4. **Title Value Unit**: Title, value, unit
+4. **Title + Value + Unit**: Title, value, unit
 
 ##### Text Fields (Top/Bottom)
 
@@ -236,18 +236,19 @@ For each data field, you can configure:
 1. **Title + Value**: Title and value
 2. **Value + Unit**: Value with unit
 3. **Value + Title**: Value with title
-4. **Title Value Unit**: Title, value, unit
-5. **Title**: Title only
-6. **Goal**: Goal display
-7. **Value / Goal**: Value over goal
-8. **Percents Of Goal**: Goal percentage
-9. **Remaining**: Remaining to reach goal
+4. **Title + Value + Unit**: Title, value, unit
 
 ##### Goal Bar
 
 - **Display Goal Bar Icon**: Show icon
 - **Display Goal Bar Text**: Show text
-- **Goal Bar Text Display Mode**: Text display mode (same options as text fields)
+- **Goal Bar Text Display Mode**: Text display mode:
+  - 0. **Value**: Value only
+  - 5. **Title**: Title only
+  - 6. **Goal**: Goal display
+  - 7. **Value / Goal**: Value over goal
+  - 8. **Percents Of Goal**: Goal percentage
+  - 9. **Remaining**: Remaining to reach goal
 - **Goal Range**: Custom range (min/max) - empty to use system goal
 
 ---

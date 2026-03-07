@@ -232,7 +232,7 @@ Para cada campo de datos, puedes configurar:
 1. **Title + Value**: Título encima del valor
 2. **Value + Unit**: Valor con unidad
 3. **Value + Title**: Valor con título debajo
-4. **Title Value Unit**: Título, valor, unidad
+4. **Title + Value + Unit**: Título, valor, unidad
 
 ##### Campos de Texto (Superior/Inferior)
 
@@ -240,18 +240,19 @@ Para cada campo de datos, puedes configurar:
 1. **Title + Value**: Título y valor
 2. **Value + Unit**: Valor con unidad
 3. **Value + Title**: Valor con título
-4. **Title Value Unit**: Título, valor, unidad
-5. **Title**: Solo título
-6. **Goal**: Visualización de objetivo
-7. **Value / Goal**: Valor sobre objetivo
-8. **Percents Of Goal**: Porcentaje de objetivo
-9. **Remaining**: Restante para alcanzar el objetivo
+4. **Title + Value + Unit**: Título, valor, unidad
 
 ##### Barra de Objetivos
 
 - **Display Goal Bar Icon**: Mostrar icono
 - **Display Goal Bar Text**: Mostrar texto
-- **Goal Bar Text Display Mode**: Modo de visualización de texto (mismas opciones que campos de texto)
+- **Goal Bar Text Display Mode**: Modo de visualización de texto:
+  - 0. **Value**: Solo valor
+  - 5. **Title**: Solo título
+  - 6. **Goal**: Visualización de objetivo
+  - 7. **Value / Goal**: Valor sobre objetivo
+  - 8. **Percents Of Goal**: Porcentaje de objetivo
+  - 9. **Remaining**: Restante para alcanzar el objetivo
 - **Goal Range**: Rango personalizado (min/max) - vacío para usar objetivo del sistema
 
 ---

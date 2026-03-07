@@ -228,7 +228,7 @@ Pour chaque champ de données, vous pouvez configurer :
 1. **Title + Value** : Titre au-dessus de la valeur
 2. **Value + Unit** : Valeur avec unité
 3. **Value + Title** : Valeur avec titre en dessous
-4. **Title Value Unit** : Titre, valeur, unité
+4. **Title + Value + Unit** : Titre, valeur, unité
 
 ##### Champs Texte (Haut/Bas)
 
@@ -236,18 +236,19 @@ Pour chaque champ de données, vous pouvez configurer :
 1. **Title + Value** : Titre et valeur
 2. **Value + Unit** : Valeur avec unité
 3. **Value + Title** : Valeur avec titre
-4. **Title Value Unit** : Titre, valeur, unité
-5. **Title** : Titre uniquement
-6. **Goal** : Affichage objectif
-7. **Value / Goal** : Valeur sur objectif
-8. **Percents Of Goal** : Pourcentage de l'objectif
-9. **Remaining** : Restant pour atteindre l'objectif
+4. **Title + Value + Unit** : Titre, valeur, unité
 
 ##### Barre d'Objectif
 
 - **Display Goal Bar Icon** : Afficher l'icône
 - **Display Goal Bar Text** : Afficher le texte
-- **Goal Bar Text Display Mode** : Mode d'affichage du texte (mêmes options que champs texte)
+- **Goal Bar Text Display Mode** : Mode d'affichage du texte :
+  - 0. **Value** : Valeur uniquement
+  - 5. **Title** : Titre uniquement
+  - 6. **Goal** : Affichage de l'objectif
+  - 7. **Value / Goal** : Valeur sur objectif
+  - 8. **Percents Of Goal** : Pourcentage de l'objectif
+  - 9. **Remaining** : Restant pour atteindre l'objectif
 - **Goal Range** : Plage personnalisée (min/max) - vide pour utiliser l'objectif système
 
 ---
