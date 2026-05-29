@@ -403,6 +403,12 @@ To obtain an API key:
 - **Degrees Direction**: Degree display (000-360)
 - **Cardinal Direction**: Cardinal display (N, NE, E, SE, S, SW, W, NW)
 
+#### Duration Fields Format
+- **Minutes**: Display durations as `90 min`
+- **Hours:Minutes**: Display durations as `01:30 h`
+
+Applies to: Active Minutes (Daily/Weekly), Recovery Time, Race Predictor fields.
+
 ---
 
 ### Advanced Settings
@@ -486,7 +492,7 @@ FUSION IV supports **73+ different data types**. Here is the complete list:
 | Stress Level | Stress level |
 | Respiration Rate | Respiration rate |
 | Oxygen Saturation | Oxygen saturation (SpO2) |
-| Recovery Time | Recovery time (hh:mm) |
+| Recovery Time | Recovery time (format depends on Duration Fields Format setting) |
 | Weight | Weight in kg |
 
 ### Sports Performance
