@@ -208,6 +208,15 @@ Contrôle la fréquence de mise à jour des données :
 6. `[DOW mm/dd]` : Lun 01/15
 7. `[yyyy/mm/dd]` : 2026/01/15
 
+#### Format des Champs de Durée
+
+Choisissez comment les valeurs de durée sont affichées sur le cadran :
+
+1. **Minutes** : `90 min`
+2. **Heures:Minutes** : `01:30 h`
+
+Ce réglage s'applique aux champs de données basés sur une durée.
+
 ---
 
 ### Champs de Données

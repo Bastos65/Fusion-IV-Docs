@@ -208,6 +208,15 @@ Controls data update frequency:
 6. `[DOW mm/dd]`: Mon 01/15
 7. `[yyyy/mm/dd]`: 2026/01/15
 
+#### Duration Fields Format
+
+Choose how duration-based values are displayed across the watch face:
+
+1. **Minutes**: `90 min`
+2. **Hours:Minutes**: `01:30 h`
+
+This setting applies to duration-based data fields.
+
 ---
 
 ### Data Fields

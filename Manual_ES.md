@@ -212,6 +212,15 @@ Controla la frecuencia de actualización de datos:
 6. `[DOW mm/dd]`: Lun 01/15
 7. `[yyyy/mm/dd]`: 2026/01/15
 
+#### Formato de Campos de Duración
+
+Elija cómo se muestran los valores de duración en toda la esfera:
+
+1. **Minutos**: `90 min`
+2. **Horas:Minutos**: `01:30 h`
+
+Este ajuste se aplica a los campos de datos basados en duración.
+
 ---
 
 ### Campos de Datos
