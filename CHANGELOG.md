@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.1.5] - 2026-09-03
+
+### Added
+- New **Add Compatible Devices** : Fenix 9 multiple models
+
+---
+
 ## [1.1.4] - 2026-06-05
 
 ### Added
