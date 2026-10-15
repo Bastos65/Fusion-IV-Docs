@@ -225,7 +225,7 @@ Ce réglage s'applique aux champs de données basés sur une durée.
 
 Pour chaque champ de données, vous pouvez configurer :
 
-1. **Type de Données** : Choix parmi 73+ types (voir section Types de Données)
+1. **Type de Données** : Choix parmi 76+ types (voir section Types de Données)
 2. **Titre Personnalisé** : Texte libre pour remplacer le titre par défaut
 3. **Mode d'Affichage** : Comment afficher la donnée
 
@@ -463,7 +463,7 @@ Ajuster la taille des polices indépendamment (75% à 150%) :
 
 ## Types de Données Disponibles
 
-FUSION IV supporte **73+ types de données** différents. Voici la liste complète :
+FUSION IV supporte **76+ types de données** différents. Voici la liste complète :
 
 ### Activité Physique
 
@@ -488,6 +488,9 @@ FUSION IV supporte **73+ types de données** différents. Voici la liste complè
 | Run Distance : Week | Distance course de la semaine |
 | Run Distance : 30 Days | Distance course sur 30 jours |
 | Run Distance : Current Month | Distance course du mois |
+| Swimming Distance : Week | Distance de natation sur les 7 derniers jours glissants |
+| Swimming Distance : 30 Days | Distance de natation sur les 30 derniers jours glissants |
+| Swimming Distance : Current Month | Distance de natation depuis le 1er du mois en cours |
 | Pushes | Nombre de poussées (si disponible) |
 | Pushes Distance Daily | Distance de poussée quotidienne |
 
