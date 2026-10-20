@@ -22,7 +22,7 @@ Choose your language:
 
 ## ✨ Key Features
 
-- **51 compatible Garmin watches**
+- **53 compatible Garmin watches**
 - **76+ data types** available
 - **28 customizable colors**
 - **Dual weather support** (Garmin Weather + OpenWeatherMap)
