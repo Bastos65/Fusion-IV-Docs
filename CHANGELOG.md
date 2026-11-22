@@ -6,6 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026_11_22]
+
+### Changed
+- Weather temperature and feels-like temperature now displayed with 1 decimal (hidden when it is 0: `16` / `16.3`)
+- Sensor temperature: decimal hidden when it is 0
+- Temperatures keep the `°` symbol when the unit is not displayed (`16.3°`)
+
+### Fixed
+- Weather min/max temperatures are now rounded instead of truncated
+- Kelvin unit displayed as `K` instead of `°K`
+
+---
+
 ## [2026_10_20]
 
 ### Added
